@@ -11,14 +11,14 @@ My name is Mason Lane. You may know me by my alias' Lane203m or aWink-ofSleep! I
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />, 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />, 
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=falt-square&logo=mysql&logoColor=white" />
-and <img alt="DotNet" src="[https://img.shields.io/badge/mysql-%2300f.svg?style=falt-square&logo=mysql&logoColor=white" ](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)/>. My goal is to reach intermediate level in my next position, and apply to the province's (BC/ON) p.eng program. I have three years of software development experience and have worked extensively with React as a frontend developer.
+and <img alt="DotNet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>. My goal is to reach intermediate level in my next position, and apply to the province's (BC/ON) p.eng program. I have three years of software development experience and have worked extensively with React as a frontend developer.
 
 I also have experience in fullstack development - which has allowed me to hone my skills in other areas as I grow into a deeper specialization. Over-all, I consider myself a very well rounded junior developer who's ready to specialize in a specific area. I am adept at object oriented programming and data structures, and am a capable all-round developer.
 
 Regarding my experience in video game development; much of it has been on personal time, or university classes. These include Game Jams, HTML5 games, and Unity projects. See my latest work on Itch.io! I have also worked with cross-platform VR development on Unity; You can see some of the work I’ve done in VR on my Github page and Youtube channel.  
  
 I enjoy an eclectic range of hobbies which includes playing Cello, personal projects on the Adobe Suite, Gaming, and software development. 
-
+![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
 Other skills:
 <p>
   <img alt="Html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
