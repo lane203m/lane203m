@@ -5,7 +5,11 @@ My name is Mason Lane. You may know me by my alias' Lane203m or aWink-ofSleep! I
  
 I enjoy an eclectic range of hobbies which includes playing Cello, personal projects on the Adobe Suite, Gaming, and software development. 
 
-
+<details open>
+<summary>I automatically open</summary>
+<br>
+Waaa, you see me. I thought I would be hidden ;p .
+</details>
 
 ## My skills, categorized by family and ordered left->right in descending familiarity:
 Operating Systems
