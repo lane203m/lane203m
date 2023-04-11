@@ -8,8 +8,11 @@ I enjoy an eclectic range of hobbies which includes playing Cello, personal proj
 
 ##Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 ![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
+
 
 
 ##Frameworks & Libraries & Engines 
