@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 
 My name is Mason Lane. You may know me by my alias' Lane203m or aWink-ofSleep! I am a Junior software developer, and I'm looking for opportunities!
@@ -6,7 +6,7 @@ My name is Mason Lane. You may know me by my alias' Lane203m or aWink-ofSleep! I
 I enjoy an eclectic range of hobbies which includes playing Cello, personal projects on the Adobe Suite, Gaming, and software development. 
 #my skills, categorized by family and ordered in descending familiarity:
 
-#Operating Systems
+### Operating Systems
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -14,7 +14,7 @@ I enjoy an eclectic range of hobbies which includes playing Cello, personal proj
 
 
 
-# Frameworks & Libraries & Engines 
+### Frameworks & Libraries & Engines 
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -28,7 +28,7 @@ I enjoy an eclectic range of hobbies which includes playing Cello, personal proj
 
 
 
-# Languages
+### Languages
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -44,7 +44,7 @@ I enjoy an eclectic range of hobbies which includes playing Cello, personal proj
 
 
 
-# Servers, databases & cloud
+### Servers, databases & cloud
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -54,12 +54,12 @@ I enjoy an eclectic range of hobbies which includes playing Cello, personal proj
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
-# Platforms 
+### Platforms 
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-# Version Control 
+### Version Control 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -67,7 +67,7 @@ I enjoy an eclectic range of hobbies which includes playing Cello, personal proj
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-# Machine Learning 
+### Machine Learning 
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -75,7 +75,7 @@ I enjoy an eclectic range of hobbies which includes playing Cello, personal proj
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-# IDEs
+### IDEs
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -83,7 +83,7 @@ I enjoy an eclectic range of hobbies which includes playing Cello, personal proj
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 
-# Other Software/Tools
+### Other Software/Tools
 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
