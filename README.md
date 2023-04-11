@@ -4,7 +4,7 @@
 My name is Mason Lane. You may know me by my alias' Lane203m or aWink-ofSleep! I am a Junior software developer, and I'm looking for opportunities!
  
 I enjoy an eclectic range of hobbies which includes playing Cello, personal projects on the Adobe Suite, Gaming, and software development. 
-
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 #my skills, categorized by family and ordered in descending familiarity:
 
 ##Operating Systems
