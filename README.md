@@ -5,13 +5,9 @@ My name is Mason Lane. You may know me by my alias' Lane203m or aWink-ofSleep! I
  
 I enjoy an eclectic range of hobbies which includes playing Cello, personal projects on the Adobe Suite, Gaming, and software development. 
 
-<details open>
-<summary>I automatically open</summary>
+<details>
+<summary>## My skills, categorized by family and ordered left->right in descending familiarity</summary>
 <br>
-Waaa, you see me. I thought I would be hidden ;p .
-</details>
-
-## My skills, categorized by family and ordered left->right in descending familiarity:
 Operating Systems
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -95,6 +91,7 @@ Other Software/Tools & Platforms
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
+</details>
 
 🔭 I’m currently working on my understanding of the Unity Engine. 
 😄 Pronouns: She/Her
