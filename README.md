@@ -94,7 +94,6 @@ Other Software/Tools & Platforms
 </details>
 
 🔭 I’m currently working on my understanding of the Unity Engine. 
-😄 Pronouns: She/Her
 
 If you like, you can support me on Patreon
 
