@@ -5,7 +5,7 @@ My name is Mason Lane. You may know me by my alias' Lane203m or aWink-ofSleep!
  
 I'm usually practicing my cello, starting up a personal project on the Adobe Suite, Gaming, or developing software. 
 
-You can also learn more about me through https://about-mason.com
+Learn more about me: https://about-mason.com
 
 ## Skills
 Languages: JavaScript, TypeScript, HTML, CSS, C#, C++, SQL, Python, PowerShell, YAML, jQuery
