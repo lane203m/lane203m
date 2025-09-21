@@ -7,6 +7,9 @@ I'm usually practicing my cello, starting up a personal project on the Adobe Sui
 
 Learn more about me: https://about-mason.com
 
+
+
+
 ## Skills
 
 
