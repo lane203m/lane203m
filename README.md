@@ -12,27 +12,10 @@ Learn more about me: https://about-mason.com
 
 ## Skills
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+<div style="display: flex; gap: 20px;">
 
-  <div style="flex: 1; min-width: 150px;">
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-  </div>
-
-  <div style="flex: 1; min-width: 150px;">
-    <img src="https://img.shields.io/badge/dotnet-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
-  </div>
-
-  <div style="flex: 1; min-width: 150px;">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  </div>
-
-</div>
-
-
-<div align="center">
-  Languages
-</div>
-<div align="center">
+  <!-- Left column -->
+  <div style="flex: 1; min-width: 200px;">
      <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" > 
      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" > 
      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" > 
@@ -40,11 +23,10 @@ Learn more about me: https://about-mason.com
      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" > 
      <img src="https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515" > 
      <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" >
-</div>
-<div align="center">
-  Technologies
-</div>
-<div align="center">
+  </div>
+
+  <!-- Right column -->
+  <div style="flex: 1; min-width: 200px;">
      <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" > 
      <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" > 
      <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" > 
@@ -54,7 +36,10 @@ Learn more about me: https://about-mason.com
      <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" > 
      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" > 
      <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" > 
+  </div>
+
 </div>
+
 <div align="center">
   Frameworks & Libraries
 </div>
