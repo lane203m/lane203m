@@ -44,20 +44,11 @@ Learn more about me: https://about-mason.com
  <summary><h2>More Skills</h2></summary>
 <be>
  
-### Languages
-Python, C++, C, Dart, Java, PHP
+| ### Languages | ### Technologies | ### Frameworks and Libraries | ### IDEs | ### Operating Systems |
+|:-------------|:---------|:--------------|:--------------|:--------------|
+| Python, C++, C, Dart, Java, PHP    | SQLite, AWS, AmazonDynamoDB, Apache, Jupyter Notebook, Nginx, Kubernetes, GitLab, Jira, Anaconda, Storybook, Adobe Creative Cloud, Microsoft Office, Canva | NodeJS, Unity, Electron.js, Flutter, TensorFlow, scikit-learn, Pandas, NumPy, Matplotlib, Matplotlib     | Visual Studio Code, Visual Studio | Windows, Linux, Cent OS |
 
-### Technologies
-SQLite, AWS, AmazonDynamoDB, Apache, Jupyter Notebook, Nginx, Kubernetes, GitLab, Jira, Anaconda, Storybook, Adobe Creative Cloud, Microsoft Office, Canva
 
-### Frameworks and Libraries
-NodeJS, Unity, Electron.js, Flutter, TensorFlow, scikit-learn, Pandas, NumPy, Matplotlib, Matplotlib
-
-### IDEs
-Visual Studio Code, Visual Studio
-
-### Operating Systems
-Windows, Linux, Cent OS
 </details>
 
 
