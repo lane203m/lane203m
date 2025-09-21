@@ -1,11 +1,11 @@
 ## Hi there 👋
 
 
-My name is Mason Lane. You may know me by my alias' Lane203m or aWink-ofSleep! I am a software developer in Canada, and I'm looking for opportunities in multiple provinces.
+My name is Mason Lane. You may know me by my alias' Lane203m or aWink-ofSleep! 
  
-I enjoy an eclectic range of hobbies which includes playing Cello, personal projects on the Adobe Suite, Gaming, and software development. 
+I'm usually practicing my cello, starting up a personal project on the Adobe Suite, Gaming, or developing software. 
 
-You can also learn more about me on from https://about-mason.com
+You can also learn more about me through https://about-mason.com
 
 
 <details>
