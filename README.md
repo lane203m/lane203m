@@ -7,10 +7,7 @@ I'm usually practicing my cello, starting up a personal project on the Adobe Sui
 
 Learn more about me: https://about-mason.com
 
-## Skills
-Languages: JavaScript, TypeScript, HTML, CSS, C#, C++, SQL, Python, PowerShell, YAML, jQuery
-Technologies: MSSQL, Azure DevOps, Github, Azure, NGINX, Nlog, Swagger, Docker, Figma
-Frameworks and Libraries: React.js, .NET, .NET Core, .NET Framework, Bootstrap
+# Skills
 
 ## Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
