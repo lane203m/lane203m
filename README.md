@@ -41,10 +41,8 @@ Learn more about me: https://about-mason.com
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 <details>
- <summary><h3>More Skills</h3></summary>
+ <summary><h2>More Skills</h2></summary>
 <be>
-
-
 ### Languages
 Python, C++, C, Dart, Java, PHP
 
@@ -60,6 +58,9 @@ Visual Studio Code, Visual Studio
 ### Operating Systems
 Windows, Linux, Cent OS
 </details>
+
+
+
 
 
 
