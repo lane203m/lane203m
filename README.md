@@ -30,6 +30,9 @@ Learn more about me: https://about-mason.com
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### Frameworks and Libraries 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -47,22 +50,13 @@ Learn more about me: https://about-mason.com
 Python, C++, C, Dart, Java, PHP
 
 ### Technologies
-SQLite, AWS, AmazonDynamoDB, Apache, Jupyter Notebook, Nginx, Kubernetes
+SQLite, AWS, AmazonDynamoDB, Apache, Jupyter Notebook, Nginx, Kubernetes, GitLab, Jira, Anaconda, Storybook, Adobe Creative Cloud, Microsoft Office, Canva
 
 ### Frameworks and Libraries
-NodeJS, Unity, Electron.js, Flutter
-
-### Version Control 
-Git, GitHub, GitLab, Jira
-
-### Machine Learning 
-TensorFlow, scikit-learn, Pandas, NumPy, Matplotlib, Matplotlib
+NodeJS, Unity, Electron.js, Flutter, TensorFlow, scikit-learn, Pandas, NumPy, Matplotlib, Matplotlib
 
 ### IDEs
 Visual Studio Code, Visual Studio
-
-### Other Software/Tools & Platforms
-Adobe Creative Cloud, Microsoft Office, Canva, Anaconda, Storybook
 
 ### Operating Systems
 Windows, Linux, Cent OS
