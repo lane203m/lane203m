@@ -11,10 +11,11 @@ Learn more about me: https://about-mason.com
 
 
 ## Skills
-
-| Languages | Technologies | Frameworks & Libraries |
-|:-------------------|:-------------------|:-------------------|
-|  |  |  |
+<div align="center">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/dotnet-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+</div>
 
 <table>
   <tr>
