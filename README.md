@@ -11,6 +11,24 @@ Learn more about me: https://about-mason.com
 
 
 ## Skills
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+
+  <div style="flex: 1; min-width: 150px;">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+  </div>
+
+  <div style="flex: 1; min-width: 150px;">
+    <img src="https://img.shields.io/badge/dotnet-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+  </div>
+
+  <div style="flex: 1; min-width: 150px;">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  </div>
+
+</div>
+
+
 <div align="center">
   Languages
 </div>
