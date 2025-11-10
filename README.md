@@ -69,9 +69,6 @@ Learn more about me: https://about-mason.com
 
 🔭 I’m currently developing my familiarity with Azure Cloud development. 
 
-If you like, you can support me on Patreon
-
-https://www.patreon.com/aWinkofSleep
 <!--
 **lane203m/lane203m** is a ✨ _special_ ✨ repository because its `README.md` (this file" > appears on your GitHub profile.
 
