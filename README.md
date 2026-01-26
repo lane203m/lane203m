@@ -1,11 +1,13 @@
 ## Hi there 👋
 
 
-My name is Mason Lane. You may know me by my alias' Lane203m or aWink-ofSleep! 
- 
-I'm usually practicing my cello, starting up a personal project on the Adobe Suite, Gaming, or developing software. 
+I’m a full-stack software engineer with experience building and operating distributed systems across startups, insurance, government, and agriculture. I specialize in .NET and React, with a strong focus on designing scalable, reliable services and clean, maintainable front-end architectures.
 
-Learn more about me: https://about-mason.com
+At Co-operators, I work on large-scale insurance platforms that deliver millions of dollars in annual business value. I led our migration from Azure TFS to GitHub, modernizing CI/CD workflows, strengthening code quality through PR governance and testing practices, and mentoring teammates on production-grade engineering standards. I also develop distributed .NET systems and event-driven services that support high-impact automation and compliance-critical workflows.
+
+I’m driven by building systems that scale well, fail safely, and remain easy to evolve. I actively deepen my architectural skills through patterns like Domain-Driven Design and Onion Architecture, with a growing interest in distributed systems, cloud reliability, and platform engineering.
+
+Outside of work, I explore creative and technical projects ranging from web applications to game development, sharing my work through GitHub, YouTube, and Itch. I enjoy TTRPGs, PC gaming, and playing the cello, and I’m always looking for new challenges that blend creativity with engineering rigor.
 
 
 
