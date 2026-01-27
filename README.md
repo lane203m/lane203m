@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I’m a full-stack software engineer with experience building and operating distributed systems across startups, insurance, government, and agriculture. I specialize in .NET and React, with a strong focus on designing scalable, reliable services and clean, maintainable front-end architectures.
+I’m a full-stack software developer with experience building and operating distributed systems across startups, insurance, government, and agriculture. I specialize in .NET and React, with a strong focus on designing scalable, reliable services and clean, maintainable front-end architectures.
 
 At Co-operators, I work on large-scale insurance platforms that deliver millions of dollars in annual business value. I led our migration from Azure TFS to GitHub, modernizing CI/CD workflows, strengthening code quality through PR governance and testing practices, and mentoring teammates on production-grade engineering standards. I also develop distributed .NET systems and event-driven services that support high-impact automation and compliance-critical workflows.
 
